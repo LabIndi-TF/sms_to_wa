@@ -30,7 +30,7 @@ Berikut adalah penjelasan singkat terkait program.
 
 ## Pustaka Python yang digunakan
 
-Versi Interpreter Python : 3.8.5
+Versi Interpreter Python : 3.8.3
 
 1. pySerial (```import serial```)<br />
     digunakan untuk melakukan pembacaan/penulisan data dari/ke device USB di COM tertentu.
