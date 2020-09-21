@@ -11,7 +11,7 @@ Program sederhana untuk meneruskan pesan searah, dari SMS ke WA Web.
 1. Clone (atau download zip)
 2. Pastikan ```pyserial``` dan ```selenium``` telah terpasang pada Python Interpreter yang digunakan pada project ini.
 3. Buat Configuration baru, dengan Run, dan pilih main.py sebagai script yang di run.
-4. Tekan F5, atau tekan tombol Run (tulisannya, atau tekan tombol Play hijau) di kanan atas window PyCharm.
+4. Tekan Shift+F10, atau tekan tombol Run (tulisannya, atau tekan tombol Play hijau) di kanan atas window PyCharm.
 
 ## Setup Hardware
 1. Buka config.py, dan  sesuaikan konfigurasi COM PORT, BAUDRATE, dan TIMEOUT sesuai konfigurasi modul SIM800L USB yang terpasang.
