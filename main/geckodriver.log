@@ -1,0 +1,94 @@
+1600420597493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--user-data-dir=./User_Data" "-foreground" "-no-remote" "-profile" "C:\\Users\\E5-473G\\AppData\\Local\\Temp\\rust_mozprofileydwj3K"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420603083	Marionette	INFO	Listening on port 55746
+1600420603337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+1600420768813	Marionette	INFO	Stopped listening on port 55746
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600420751872	Marionette	INFO	Listening on port 55814
+1600420752170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600420951748	Marionette	INFO	Stopped listening on port 55814
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420885025	Marionette	INFO	Listening on port 55950
+1600420885509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+1600420954302	Marionette	INFO	Stopped listening on port 55950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600420970518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--user-data-dir=./User_Data" "-foreground" "-no-remote" "-profile" "C:\\Users\\E5-473G\\AppData\\Local\\Temp\\rust_mozprofile8V0QxQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600420974880	Marionette	INFO	Listening on port 56014
+1600420975288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+1600421024203	Marionette	INFO	Stopped listening on port 56014
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600421042010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--user-data-dir=./User_Data" "-foreground" "-no-remote" "-profile" "C:\\Users\\E5-473G\\AppData\\Local\\Temp\\rust_mozprofile9pYR8W"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600421046193	Marionette	INFO	Listening on port 56068
+1600421046257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.078346a60a3074dee416.js, line 1: unreachable code after return statement
+1600421246050	Marionette	INFO	Stopped listening on port 56068
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
