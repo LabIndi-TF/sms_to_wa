@@ -87,4 +87,7 @@ Karena sifat kotak chat yang mengirim pesan bila tombol Enter ditekan (setara de
     2.1. https://github.com/pyserial/pyserial
 3. Penanganan tipe data Python : mengubah bytes ke string. Bermanfaat dalam pengriman pesan ke jendela browser yang membuka WA <br/>
     3.1. https://stackoverflow.com/questions/606191/convert-bytes-to-a-string
+4. Fungsi-fungsi operasi WhatsappWeb via Selenium<br/>
+    4.1. https://www.youtube.com/watch?v=wJXZq7ZO4sQ <br/>
+    4.2.https://www.youtube.com/watch?v=OmUladESyX0
 
